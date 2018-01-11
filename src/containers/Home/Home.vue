@@ -19,7 +19,7 @@
           <p>{{item.title}}</p>
           <p>{{item.price}}</p>
         </div>
-        <div v-if="!hasMore" class="line">我是有底线的</div>
+        <div v-if="!hasMore" class="line">到底部啦...</div>
       </div>
     </div>
   </div>

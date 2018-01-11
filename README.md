@@ -1,8 +1,11 @@
-# 201710vue
+# 图书管理
 
-> A Vue.js project
+> 一个vue项目
 
-## Build Setup
+## 技术栈
+- mintUi + axios + vue全家桶
+
+## 启动项目
 
 ``` bash
 # install dependencies
@@ -10,7 +13,7 @@ npm install
 
 # serve with hot reload at localhost:8081
 npm run dev
-
+  
 # build for production with minification
 npm run build
 
@@ -21,7 +24,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-## server
+## server 
 ```
 $ cd server && node server.js
 ```
